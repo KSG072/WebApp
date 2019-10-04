@@ -1,0 +1,62 @@
+
+body{
+    color: #939396;
+    background-color: #1D2475;
+    font-family: sans-serif;
+    background-image: url("../lab1/image/cse326bg.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+h1{
+    text-shadow: 3px -3px green;
+    color: #f7931e;
+    font-size: 40pt;
+}
+h2{
+    color: #f7931e;
+}
+dl{
+    font-size: 70%;
+}
+dt{
+    font-weight: bold;
+}
+p:first-letter{
+    font-weight: bold;
+    font-size: 150%;
+}
+a:visited{
+    color: #ff4f4f;
+    text-decoration: none;
+}
+a:link{
+    color: #ff4f4f;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a{
+    color: #ff4f4f
+}
+em, dt{
+    color: #fff86b;
+}
+blockquote{
+    color: #d1dfeb;
+}
+li{
+  text-align: left;  
+}
+table, th, td{
+    border: dotted;
+    border-collapse: collapse;
+}
+ul{
+    list-style-type: square;
+}
+.favorite{
+    outline: #f7931e;
+    outline-style: ridge;
+    outline-width: medium;
+}
